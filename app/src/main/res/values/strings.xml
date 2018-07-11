@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="toneArray">
+        <item>Attention</item>
+        <item>Despacito</item>
+        <item>Havana</item>
+        <item>Shape of You</item>
+        <item>We don't talk anymore</item>
+    </string-array>
+</resources>
